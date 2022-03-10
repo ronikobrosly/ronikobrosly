@@ -3,7 +3,7 @@ About this page
 
 Hi, I'm Roni 👋. 
 
-I'm the current Head of the Data Science at DrFirst, a Washington DC-based Health Tech company. I'm also the creator and maintainer of the open-source python package `causal-curve`, which offers a collection of tools to perform causal inference analysis.
+I'm the current Head of the Data Science at DrFirst, a Washington DC-based Health Tech company. I'm also the creator and maintainer of the open-source python package [`causal-curve`](https://github.com/ronikobrosly/causal-curve), which offers a collection of tools to perform causal inference analysis.
 
 Feel free to drop me a message ✉️: [roni.kobrosly@gmail.com](mailto:roni.kobrosly@gmail.com)
 
