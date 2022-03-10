@@ -11,7 +11,7 @@ Fun facts about me ⚡️:
 * I'm confident I'm the only person on earth with the name Roni Kobrosly (one of the perks of having a bicultural background). 
 * My all-time favorite book is [Don DeLillo's White Noise](https://en.wikipedia.org/wiki/White_Noise_(novel)).
 * I've got a PhD in Epidemiology.
-* I make very good scrambled eggs and hash brown breakfast. I mean really, really good. Really. 🍳
+* I make a very good scrambled eggs and hash brown breakfast. I mean really, really good. Really. 🍳
 * I'm an adherent of skepticism.
 
 **Some links**
