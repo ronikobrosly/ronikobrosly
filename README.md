@@ -12,7 +12,7 @@ Fun facts about me ⚡️:
 * My all-time favorite book is [Don DeLillo's White Noise](https://en.wikipedia.org/wiki/White_Noise_(novel)).
 * I've got a PhD in Epidemiology.
 * I make a very good scrambled eggs and hash brown breakfast. I mean really, really good. Really. 🍳
-* I'm an adherent of skepticism.
+* I'm a skeptic. 
 
 **Some links**
 
