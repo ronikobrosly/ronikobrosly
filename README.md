@@ -16,5 +16,5 @@ Fun facts about me ⚡️:
 
 **Some links**
 
-* [Personal blog](https://www.kobrosly.net)
+* [Personal blog](https://ronikobrosly.github.io/)
 * [Profile on LinkedIn](https://www.linkedin.com/in/ronikobrosly/)
