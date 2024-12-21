@@ -3,6 +3,8 @@ About this page
 
 Hi, I'm Roni 👋. 
 
+[Check out my personal webpage here](ronikobrosly.github.io).
+
 I'm the a Director of the Data Science at Capital One and based out of Silver Spring, Maryland. I'm also the creator and maintainer of the open-source python package [`causal-curve`](https://github.com/ronikobrosly/causal-curve), which offers a collection of tools to perform causal inference analysis.
 
 Feel free to drop me a message ✉️: [roni.kobrosly@gmail.com](mailto:roni.kobrosly@gmail.com)
